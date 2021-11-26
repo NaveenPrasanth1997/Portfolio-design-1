@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(46, 46, 46);
+}
+
+
+
+
+ a:hover{
+    border: solid 1px;
+    border-color:palevioletred;
+
+}
+
+#home{
+    display:flex;
+    border: solid 3px palevioletred;
+    background-color: lightgray;
+    padding:10%
+}
+
+
+.text{
+    color:red;
+    font-family: elephant;
+    line-height: 0.5;
+}
+
+#education{
+    display:flex;
+    justify-content: center;
+    border: solid 3px palevioletred;
+    background-color: lightgray;
+    padding:5%;
+    }
+
+#skills{
+    display:flex;
+    justify-content: center;
+    border: solid 3px palevioletred;
+    background-color: lightgray;
+    padding:5%
+}
+
+#certificate{
+    display:flex;
+    justify-content: center;
+    border: solid 3px palevioletred;
+    background-color: lightgray;
+    padding:5%
+}
+
+#contact{
+    display:flex;
+    border: solid 3px palevioletred;
+    background-color: lightgray;
+    padding:5%
+}
+
+.header{
+    color:white;
+    font-family: elephant;
+}
